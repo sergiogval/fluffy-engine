@@ -89,6 +89,7 @@ h3 {
     background-color: var(--fill-color);
     font-size: 30px;
     display: flex;
+    flex-direction: row-reverse;
     align-items: center;
     justify-content: center;
     font-weight: bold;
